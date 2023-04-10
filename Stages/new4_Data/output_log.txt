@@ -1,0 +1,123 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2503)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   31.0.15.3129
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\marci\iCloudDrive\To nie porno\Prace\Unity games\War Of Pizza Balls\etapy rozwoju\new4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\marci\iCloudDrive\To nie porno\Prace\Unity games\War Of Pizza Balls\etapy rozwoju\new4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\marci\iCloudDrive\To nie porno\Prace\Unity games\War Of Pizza Balls\etapy rozwoju\new4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\marci\iCloudDrive\To nie porno\Prace\Unity games\War Of Pizza Balls\etapy rozwoju\new4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\marci\iCloudDrive\To nie porno\Prace\Unity games\War Of Pizza Balls\etapy rozwoju\new4_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\marci\iCloudDrive\To nie porno\Prace\Unity games\War Of Pizza Balls\etapy rozwoju\new4_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\marci\iCloudDrive\To nie porno\Prace\Unity games\War Of Pizza Balls\etapy rozwoju\new4_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\marci\iCloudDrive\To nie porno\Prace\Unity games\War Of Pizza Balls\etapy rozwoju\new4_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\marci\iCloudDrive\To nie porno\Prace\Unity games\War Of Pizza Balls\etapy rozwoju\new4_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\marci\iCloudDrive\To nie porno\Prace\Unity games\War Of Pizza Balls\etapy rozwoju\new4_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\marci\iCloudDrive\To nie porno\Prace\Unity games\War Of Pizza Balls\etapy rozwoju\new4_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\marci\iCloudDrive\To nie porno\Prace\Unity games\War Of Pizza Balls\etapy rozwoju\new4_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  9.740 seconds
+Platform assembly: C:\Users\marci\iCloudDrive\To nie porno\Prace\Unity games\War Of Pizza Balls\etapy rozwoju\new4_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\marci\iCloudDrive\To nie porno\Prace\Unity games\War Of Pizza Balls\etapy rozwoju\new4_Data\Managed\System.dll (this message is harmless)
+desktop: 3440x1440 100Hz; virtual: 3440x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.489800 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at Volume.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 80e4 -> priority: 1 
+  Thread -> id: 7760 -> priority: 1 
+  Thread -> id: 825c -> priority: 1 
+  Thread -> id: 1918 -> priority: 1 
+  Thread -> id: 87d4 -> priority: 1 
+  Thread -> id: 3534 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.598200 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2181.
+Total: 1.091900 ms (FindLiveObjects: 0.048400 ms CreateObjectMapping: 0.026600 ms MarkObjects: 0.299200 ms  DeleteObjects: 0.717100 ms)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.704800 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2181.
+Total: 0.364800 ms (FindLiveObjects: 0.057500 ms CreateObjectMapping: 0.025100 ms MarkObjects: 0.274600 ms  DeleteObjects: 0.007000 ms)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.763700 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2181.
+Total: 0.349600 ms (FindLiveObjects: 0.044600 ms CreateObjectMapping: 0.024900 ms MarkObjects: 0.273300 ms  DeleteObjects: 0.006400 ms)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.672300 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2181.
+Total: 0.361200 ms (FindLiveObjects: 0.044900 ms CreateObjectMapping: 0.024700 ms MarkObjects: 0.284200 ms  DeleteObjects: 0.006900 ms)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.673000 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2181.
+Total: 0.374800 ms (FindLiveObjects: 0.044200 ms CreateObjectMapping: 0.024900 ms MarkObjects: 0.298500 ms  DeleteObjects: 0.006700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.776500 ms
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 506.
+Total: 0.780600 ms (FindLiveObjects: 0.016400 ms CreateObjectMapping: 0.011400 ms MarkObjects: 0.216900 ms  DeleteObjects: 0.535400 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Volume.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.412200 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2181.
+Total: 1.169600 ms (FindLiveObjects: 0.065900 ms CreateObjectMapping: 0.023900 ms MarkObjects: 0.275700 ms  DeleteObjects: 0.803600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.921100 ms
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 506.
+Total: 0.952400 ms (FindLiveObjects: 0.025700 ms CreateObjectMapping: 0.012200 ms MarkObjects: 0.270200 ms  DeleteObjects: 0.643800 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Volume.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
